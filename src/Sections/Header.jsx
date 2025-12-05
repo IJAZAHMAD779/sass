@@ -70,7 +70,7 @@ const Header = () => {
                     )}
                   >
                     <img
-                      src="/sass/images/Lumina.svg"
+                      src="/sass/images/lumina.svg"
                       width={160}
                       height={55}
                       alt="logo"

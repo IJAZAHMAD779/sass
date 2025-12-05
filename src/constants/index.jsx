@@ -6,7 +6,7 @@ export const features = [
     icon: "/sass/images/feature-1.png",
     caption: "Easy integration",
     title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    text: "With Lumina, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
     button: {
       icon: "/sass/images/magictouch.svg",
       title: "Watch the demo",
@@ -17,7 +17,7 @@ export const features = [
     icon: "/sass/images/feature-2.png",
     caption: "Secure & trustworthy",
     title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Lumina helps keeps your information secure and locked up tighter than Fort Knox.",
     button: {
       icon: "/sass/images/docs.svg",
       title: "Read the docs",
@@ -51,15 +51,15 @@ export const details = [
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "How easy is it to setup Lumina?",
     answer:
-      "Setting up Xora is incredibly simple! Our intuitive onboarding process gets you up and running in just a few minutes. No technical expertise required.",
+      "Setting up Lumina is incredibly simple! Our intuitive onboarding process gets you up and running in just a few minutes. No technical expertise required.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "Can I integrate Lumina with other platforms?",
     answer:
-      "Yes! Xora seamlessly integrates with over 100+ popular platforms including Slack, Google Workspace, Microsoft Teams, and many more through our API.",
+      "Yes! Lumina seamlessly integrates with over 100+ popular platforms including Slack, Google Workspace, Microsoft Teams, and many more through our API.",
   },
   {
     id: "2",
@@ -166,7 +166,7 @@ export const testimonials = [
     role: "Globalnomads",
     avatarUrl: "/sass/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They're like my tech-savvy best friend who's always there when I need them.",
+      "Lumina's customer support is second to none! They're like my tech-savvy best friend who's always there when I need them.",
   },
   {
     id: "1",
@@ -198,7 +198,7 @@ export const testimonials = [
     role: "Floclips",
     avatarUrl: "/sass/images/testimonials/becky-snider.png",
     comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+      "Switched to Lumina last month, and I'm already seeing results. Best decision for our team!",
   },
   {
     id: "5",

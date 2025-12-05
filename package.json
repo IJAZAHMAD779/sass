@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "vite build && cd dist && git init && git add -A && git commit -m 'deploy' && git push -f https://github.com/IJAZAHMAD779/saas.git master:gh-pages && cd .."
+    "deploy": "vite build && cd dist && git init && git add -A && git commit -m 'deploy' && git push -f https://github.com/IJAZAHMAD779/sass.git master:gh-pages && cd .."
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",

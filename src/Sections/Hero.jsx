@@ -22,10 +22,10 @@ const Hero = () => {
             </LinkScroll>
           </div>
 
-          <div className="absolute -top-32 left-[calc(50%-340px)] w-1230px pointer-events-none hero-img_res">
+          <div className="absolute -top-32 left-[calc(50%-340px)] w-1230px pointer-events-none hero-img_res max-md:left-1/2 max-md:transform max-md:-translate-x-1/2 max-md:top-280 max-md:w-full">
             <img
               src="/sass/images/hero.png"
-              className="size-1230 max-lg:h-auto md:size-full object-contain"
+              className="size-1230 max-lg:h-auto md:size-full object-contain max-md:w-full max-md:h-auto"
               alt="hero"
             />
           </div>
